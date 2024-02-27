@@ -1,7 +1,7 @@
 .holder{
 	display: flex;
 	margin: 20px auto;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	
 }
 .box1{
