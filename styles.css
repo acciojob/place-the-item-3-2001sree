@@ -1,5 +1,18 @@
 .holder{
-	display:block;
-	flex-direction: row;
-	justify-content: space-between;
+	display: flex;
+	margin: 20px auto;
+	justify-content: space-around;
+	
+}
+.box1{
+	width:100px;
+	height: 100px;
+}
+.box2{
+	width:100px;
+	height: 100px;
+}
+.box3{
+	width:100px;
+	height: 100px;
 }
